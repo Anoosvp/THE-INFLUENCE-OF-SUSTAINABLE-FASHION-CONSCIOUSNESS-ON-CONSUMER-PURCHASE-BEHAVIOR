@@ -18,7 +18,7 @@ The research focuses on urban fashion consumers and examines why having awarenes
 
 ## Research Aim
 
-The main aim of this study is to explore the impact of **greenwashing skepticism, social identity signaling, and eco-label trust** on the purchase behavior of urban fashion consumers.
+The aim of this study is to explore how sustainable fashion consciousness influences the purchasing behaviour of urban fashion consumers, with particular attention to greenwashing scepticism, social identity signalling and eco-label trust.
 
 ### Research Objectives
 
@@ -306,18 +306,7 @@ sustainable-fashion-consumer-behavior/
 ├── README.md
 │
 ├── data/
-│   └── article_coding_dataset.xlsx
-│
-├── analysis/
-│   └── thematic_analysis/
-│
-├── outputs/
-│   ├── thematic_coding_table.xlsx
-│   └── figures/
-│
-└── report/
-    └── dissertation.pdf
-```
+│   └── data_extraction_and_thematic_coding.xlsx
 
 > **Note:** The `data/` folder should contain the article-level extraction/coding dataset rather than raw individual consumer data, because this research used secondary published studies.
 
@@ -335,7 +324,7 @@ The analytical workflow primarily involved:
 * PRISMA-style screening
 * Literature synthesis
 
-The study was designed for **qualitative interpretation rather than statistical hypothesis testing**.
+The analysis focused on systematic qualitative synthesis and thematic interpretation of the selected literature**.
 
 ---
 
