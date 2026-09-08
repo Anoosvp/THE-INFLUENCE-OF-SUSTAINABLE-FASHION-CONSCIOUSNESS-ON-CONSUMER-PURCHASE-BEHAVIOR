@@ -443,6 +443,6 @@ The project uses a quantitative research design and combines classical statistic
 
 ## Author
 
-**MSc Business Analytics Candidate**
+**Mohammed Anoos Valiyapeedikakkal**
 
 This repository contains the analytical notebook and supporting documentation for the Sustainable Fashion Business Analytics project.
